@@ -1,4 +1,4 @@
-# ✨ About Me:
+o# ✨ About Me:
 -Intrested to build more scalable software for system design.<br>-I'm currently learning DSA Algo & System Design.<br>-I'm currently working on ()$ Project.
 
 
@@ -18,5 +18,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=m2matrix&icon=0&color=0)](https://visitcount.itsvg.in)
-<br>-Be private you will be happy in you life Forever.
+<br>-Be private you will be happy in your life Forever.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
